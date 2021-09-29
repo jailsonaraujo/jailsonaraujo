@@ -1,6 +1,6 @@
-## <h1 style="color:">😀 Ola!! Eu sou Jailson araujo 👋</h1>
+## <h1 style="color:">😀 :sparkles:Ola!! Eu sou Jailson araujo:sparkles: 👋</h1>
 - 📚 Acadêmico Sistema de Informação
-- Estudando javaScript
+- :sparkles:Estudando javaScript
 ## <div>
   <a href="https://github.com/jailsonaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailsonaraujo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
