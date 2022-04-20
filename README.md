@@ -1,4 +1,6 @@
-## <h1 style="color:" align="center">😀 :sparkles:Ola!! Eu sou Jailson araujo:sparkles: 👋</h1>
+## <h1 style="color:" align="center">😀 :sparkles:Ola!! Eu sou Jailson araujo:sparkles: 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</h1>
 - 📚 Acadêmico Sistema de Informação
 - :sparkles:Estudando React.js
 ## <div align="center">
