@@ -4,7 +4,7 @@
 </div>
 
 <div align="left" >
-  <p>📚 Acadêmico Sistema de Informação<p>
+  <p>📚 Bacharel Sistema de Informação<p>
   <p>✔ Automação de testes (Cypress)
   <p>✔ Estudando javascript<p>
   <p>✔ Estudando HTML5<p>
