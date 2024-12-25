@@ -5,7 +5,8 @@
 
 <div align="left" >
   <p>📚 Bacharel Sistema de Informação<p>
-  <p>✔ Automação de testes (Cypress), Postman <p>✔ javascript<p>
+  <p>✔ Automação de testes (Cypress), Postman 
+  <p>✔ javascript<p>
   <p>✔ HTML5<p>
   <p>✔ CSS3<p>
 </div>
@@ -21,5 +22,5 @@
   <img align="center" alt="jailson-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   |  <img align="center" alt="jailson-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   |  <img align="center" alt="jailson-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  |  <img align="center" alt="jailson-REACT" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  |  <img align="center" alt="jailson-REACT" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
 </div>
