@@ -1,6 +1,6 @@
 
 <div align="center"> 
- <h1 align="center">😀 :sparkles:Ola!! Eu sou Jailson araujo:sparkles: <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"      width="30px"></h1> <h2 align="center">Desenvolvedor Front-end</h2>
+ <h1 align="center">😀 :sparkles:Ola!! Eu sou Jailson araujo:sparkles: <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"      width="30px"></h1> <h2 align="center">Analista de teste | QA</h2>
 </div>
 
 <div align="left" >
