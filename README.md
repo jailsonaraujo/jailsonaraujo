@@ -4,7 +4,7 @@
 </div>
 
 <div align="left" >
-  <p>✔ Bacharel Sistema de Informação<p>
+  <p>✔ Bacharel Sistema de Informação   ✔ Scrum Foundation Professional Certification (SFPC)
   <p>✔ Automação de testes (Cypress)   ✔ Postman 
   <p>✔ javascript   ✔ HTML5   ✔ CSS3<p>
 </div>
