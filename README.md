@@ -10,6 +10,13 @@
   <p>✔ HTML5<p>
   <p>✔ CSS3<p>
 </div>
+<div align="right" >
+  <p>📚 Bacharel Sistema de Informação<p>
+  <p>✔ Automação de testes (Cypress), Postman 
+  <p>✔ javascript<p>
+  <p>✔ HTML5<p>
+  <p>✔ CSS3<p>
+</div>
 
 ##
 <div align="center">
