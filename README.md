@@ -6,7 +6,7 @@
 <div align="left" >
   <p>✔ Bacharel Sistema de Informação<p>
   <p>✔ Automação de testes (Cypress)   ✔ Postman 
-  <p>✔ javascript<p>   ✔ HTML5<p>   ✔ CSS3<p>
+  <p>✔ javascript   ✔ HTML5   ✔ CSS3<p>
 </div>
 
 ##
